@@ -1,4 +1,5 @@
 # 100 Days Of Code - Log
+** [You can also follow my progress on twitter! @meaghanwonder](https://twitter.com/meaghanwonder)
 
 ### Day 1: January 22nd, 2017
 
