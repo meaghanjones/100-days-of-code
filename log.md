@@ -18,10 +18,11 @@
 
 **Today's Progress**: I am still working on the JS section of the Free Code Camp exercises. 
 
-**Thoughts**: I am looking forward to finishing these exercises so I can get started on the projects.
+**Thoughts**: I am looking forward to finishing these exercises so I can get started on the projects. I also decided to do more than an hour and try to brush up on learning Angular2. I am following a really great tutorial that is walking me through the process of building a fully functional CRUD todo app. So far it has been really helpful and I will continue working on understanding everything that is going on.
 
-**Link(s) to work**: 
-1. [Calculator App](http://www.example.com)
+**Link(s)**: 
+1. [Angular2 todo app tutorial](https://www.sitepoint.com/angular-2-tutorial/)
+2. [Link to my todo app github repository](https://github.com/meaghanjones/angular2-todo-app)
 
 
 
