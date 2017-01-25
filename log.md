@@ -25,7 +25,16 @@
 1. [Angular2 todo app tutorial](https://www.sitepoint.com/angular-2-tutorial/)
 2. [Link to my todo app github repository](https://github.com/meaghanjones/angular2-todo-app)
 
+### Day 3: January 25th, Wednesday 
 
+**Today's Progress**: I worked on a ruby program that will read a csv file, delete rows that do not fit within a given time period and will then print all of the rows in a certain column. I also worked through the same tutorial on Angular2 as yesterday. 
+
+**Thoughts**: Angular2 is complicated but I think the more I look over it the better it will be (and maybe easier someday :) )
+
+**Link(s)**: 
+1. [Angular2 todo app tutorial](https://www.sitepoint.com/angular-2-tutorial/)
+2. [Link to my todo app github repository](https://github.com/meaghanjones/angular2-todo-app)
+3. [Link to my ruby csv reader](https://github.com/meaghanjones/csv-reader)
 
 
 
