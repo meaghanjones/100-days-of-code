@@ -25,7 +25,7 @@
 1. [Angular2 todo app tutorial](https://www.sitepoint.com/angular-2-tutorial/)
 2. [Link to my todo app github repository](https://github.com/meaghanjones/angular2-todo-app)
 
-### Day 3: January 25th, Wednesday 
+### Day 4: January 25th, Wednesday 
 
 **Today's Progress**: I worked on a ruby program that will read a csv file, delete rows that do not fit within a given time period and will then print all of the rows in a certain column. I also worked through the same tutorial on Angular2 as yesterday. 
 
@@ -35,6 +35,26 @@
 1. [Angular2 todo app tutorial](https://www.sitepoint.com/angular-2-tutorial/)
 2. [Link to my todo app github repository](https://github.com/meaghanjones/angular2-todo-app)
 3. [Link to my ruby csv reader](https://github.com/meaghanjones/csv-reader)
+
+### Day 5: January 26th, Thursday 
+
+**Today's Progress**: I worked on a lot of code today! I did some of the freeCodeCamp algorithms in Javascript, worked on a friend's website, and integrated hot jar into my portfolio site. I loved learning more about hotjar. I was able to see a recording of how people navigate on my site and realized there were some places that needed to have links! It was very interesting.  
+
+**Thoughts**: I am really excited to play around more with hotjar. If anyone is reading this and wants to try it as well, use the following link: https://www.hotjar.com/r/r5e7544 
+
+**Link(s)**: 
+1. [My protfolio](meaghanjones.com)
+2. [Link to hot jar - integrate it in your own website!](https://www.hotjar.com/r/r5e7544)
+
+### Day 6: January 27th, Friday
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s)**: 
+1. [My protfolio](meaghanjones.com)
+2. [Link to hot jar - integrate it in your own website!](https://www.hotjar.com/r/r5e7544)
+
 
 
 
