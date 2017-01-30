@@ -47,13 +47,19 @@
 2. [Link to hot jar - integrate it in your own website!](https://www.hotjar.com/r/r5e7544)
 
 ### Day 6: January 27th, Friday
-**Today's Progress**:
+**Today's Progress**: Started the free code camp quote generator.
 
-**Thoughts**: 
+**Thoughts**: I thought this would have been easier for me, but it was a difficult start.
 
-**Link(s)**: 
-1. [My protfolio](meaghanjones.com)
-2. [Link to hot jar - integrate it in your own website!](https://www.hotjar.com/r/r5e7544)
+
+### Day 7: January 28th, Saturday
+**Today's Progress**: I continued the free code camp project.
+
+
+### Day 8: January 27th, Sunday
+**Today's Progress**: I started to work on the styling the code generator. 
+
+**Thoughts**: It was harder than I expected to design the front end of the quote generator. I think I need to learn a lot about design and it would be intersting to try to get a handle on transistions.
 
 
 
